@@ -5,7 +5,9 @@ I specialize in CI/CD pipeline automation, containerization with Docker and Dock
 
 I have built and deployed multiple production-ready applications — including a Bitly Clone (URL Shortener) and QuickStay (Hotel Booking Platform) — using Python, Flask, PostgreSQL, Docker Compose, and Jenkins on AWS EC2, with features like user authentication, role-based access control (RBAC), click analytics, and admin panels. 
 
-My core competencies include Linux (Ubuntu) server administration, AWS cloud infrastructure (EC2, IAM, VPC, Security Groups), Docker, Kubernetes (Basics), GitHub Actions, Git Webhooks, Bash/Shell scripting, Python, YAML, and networking fundamentals (DNS, HTTPS, SSL/TLS, SSH, NAT Gateway). I hold multiple certifications from KodeKloud in Advanced Jenkins, Jenkins Pipelines, Docker, Kubernetes, AWS Basics, and Git. I am a passionate self-learner who independently mastered core DevOps tools and practices outside of formal education and applied them in real-world project deployments. 
+My core competencies include Linux (Ubuntu) server administration, AWS cloud infrastructure (EC2, IAM, VPC, Security Groups), Docker, Kubernetes (Basics), GitHub Actions, Git Webhooks, Bash/Shell scripting, Python, YAML, and networking fundamentals (DNS, HTTPS, SSL/TLS, SSH, NAT Gateway). 
+
+I hold multiple certifications from KodeKloud in Advanced Jenkins, Jenkins Pipelines, Docker, Kubernetes, AWS Basics, and Git. I am a passionate self-learner who independently mastered core DevOps tools and practices outside of formal education and applied them in real-world project deployments. 
 
 
 ## 🌐 Socials:
