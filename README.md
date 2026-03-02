@@ -1,5 +1,5 @@
-# Manan ur Rehman
-## Aspiring DevOps Engineer
+<h1 align="center">Manan ur Rehman</h1>
+<h2 align="center">Aspiring DevOps Engineer</h2>
 
 I specialize in CI/CD pipeline automation, containerization with Docker and Docker Compose, and cloud deployment on AWS EC2. I have hands-on experience building end-to-end Jenkins pipelines with integrated security scanning stages using SonarQube, Trivy, and OWASP Dependency Check to enforce code quality gates before production deployment. 
 
