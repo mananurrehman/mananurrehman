@@ -1,7 +1,7 @@
 <h1 align="center">Manan ur Rehman</h1>
 <h2 align="center">Aspiring DevOps Engineer</h2>
 
-I specialize in CI/CD pipeline automation, containerization with Docker and Docker Compose, and cloud deployment on AWS EC2. I have hands-on experience building end-to-end Jenkins pipelines with integrated security scanning stages using SonarQube, Trivy, and OWASP Dependency Check to enforce code quality gates before production deployment. 
+I specialize in CI/CD pipeline automation, containerization with Docker and Docker Compose, and cloud deployment on AWS EC2. I have hands-on experience building end-to-end Jenkins pipelines with integrated security scanning stages using SonarQube, Trivy, and OWASP Dependency Check to enforce code quality gates before production deployment.
 
 I have built and deployed multiple production-ready applications — including a Bitly Clone (URL Shortener) and QuickStay (Hotel Booking Platform) — using Python, Flask, PostgreSQL, Docker Compose, and Jenkins on AWS EC2, with features like user authentication, role-based access control (RBAC), click analytics, and admin panels. 
 
