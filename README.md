@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/mananurrehman">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=900&lines=Hey%2C+I'm+Manan+ur+Rehman+%F0%9F%91%8B;Junior+DevOps+Engineer;CI%2FCD+%7C+Docker+%7C+AWS+%7C+Kubernetes;Building+Pipelines+To+Ship+Secure+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=900&lines=Hey%2C+I'm+Manan+ur+Rehman+%F0%9F%91%8B;DevOps+Engineer;CI%2FCD+%7C+Docker+%7C+AWS+%7C+Kubernetes;Building+Pipelines+To+Ship+Secure+Code" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -10,7 +10,7 @@
 <!-- Badges Row -->
 <p>
   <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-00D4FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-1DB954?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-1DB954?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
@@ -74,43 +74,41 @@
 
 ## 🏗️ Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 💰 [Finvestigate — Personal Finance Tracker](https://github.com/mananurrehman/finvestigate/)
+**Two-Workflow DevSecOps Pipeline on Oracle Cloud VM**
+- Personal finance app with signup/login, income & expense tracking with categories, RBAC, and live PKR/USD currency conversion
+- Interactive dashboard with Chart.js category breakdown, current balance, and filtering by month, category, type, and date
+- Full CRUD on transaction records — add, edit, update, and delete entries
+- **2-workflow chained GitHub Actions pipeline:**
+  - `CI` → flake8, bandit, gitleaks, pip-audit, pytest
+  - `CD` → hadolint, pip-audit, Trivy image scan, DockerHub push, deploy via SSH
+
+**Stack:** Python · Flask · PostgreSQL · Docker Compose · GitHub Actions · Oracle Cloud · Chart.js · Trivy · Bandit · Gitleaks · Hadolint · pip-audit · DockerHub
+
+---
 
 ### 🏨 [QuickStay — Hotel Booking Platform](https://github.com/mananurrehman/quickstay/)
-
-**Full DevSecOps Pipeline on AWS EC2**
-
-- Full-featured booking platform (auth, RBAC, property listings, bookings)
+**Three-Stage DevSecOps Pipeline on AWS EC2**
+- Hotel booking platform with user auth, RBAC, property listings, and booking management
+- Remediated HIGH CVEs in Flask & Werkzeug; branch protection with required status checks on `main`
 - **3-stage chained GitHub Actions pipeline:**
   - `CI` → flake8, bandit, pytest, gitleaks
   - `Docker Security` → hadolint, pip-audit, Trivy, DockerHub push
   - `Deploy` → SSH to EC2, docker pull & compose up
-- Remediated HIGH CVEs in Flask & Werkzeug
-- Branch protection with required status checks on `main`
 
-**Stack:** Python · Flask · PostgreSQL · Docker Compose · GitHub Actions · AWS EC2 · SonarQube · Trivy · OWASP
+**Stack:** Python · Flask · PostgreSQL · Docker Compose · GitHub Actions · AWS EC2 · SonarQube · Trivy · Bandit · Gitleaks · Hadolint · pip-audit · DockerHub
 
-</td>
-<td width="50%">
+---
 
 ### 🔗 [Bitly Clone — URL Shortener](https://github.com/mananurrehman/bitly_clone/)
-
 **End-to-End Jenkins CI/CD on AWS EC2**
-
-- Functional URL shortener with user auth, 3-char short code generation, and click analytics dashboard
-- Role-Based Access Control (RBAC) — Admin & User roles with separate permission levels
+- URL shortener with user auth, 3-char short code generation, and click analytics dashboard
+- RBAC with Admin & User roles; PostgreSQL with full CRUD and health-checked Docker Compose setup
 - **Jenkins pipeline stages:**
   - `Checkout SCM` → `SonarQube Analysis` → `Trivy Scan`
   - `OWASP Check` → `Deploy to Staging` → `Verify` → `Post Actions`
-- PostgreSQL with full CRUD + health-checked Docker Compose setup
 
 **Stack:** Python · Flask · PostgreSQL · Docker Compose · Jenkins · AWS EC2 · SonarQube · Trivy · OWASP
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -169,7 +167,7 @@ Code Push ──► GitHub Actions CI ──► Docker Security Scan ──► D
 
 <div align="center">
 
-**💡 Open to Junior DevOps Engineer & DevOps Internship opportunities.**  
+**💡 Open to DevOps Engineer & DevOps Internship opportunities.**  
 **Feel free to reach out — let's build something reliable together.**
 
 *"Automate everything. Secure everything. Ship with confidence."*
