@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  🎓 BS Information Technology — BZU Multan &nbsp;|&nbsp; 📍 Islamabad, Pakistan &nbsp;|&nbsp; 💼 Open to opportunities
+  🎓 BS Information Technology — BZU Multan &nbsp;|&nbsp; 📍 Lahore, Pakistan &nbsp;|&nbsp; 💼 Open to opportunities
 </p>
 
 <p align="center">
