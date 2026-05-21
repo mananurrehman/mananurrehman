@@ -167,7 +167,7 @@ Code Push ──► GitHub Actions CI ──► Docker Security Scan ──► D
 
 <div align="center">
 
-**💡 Open to DevOps Engineer & DevOps Internship opportunities.**  
+**💡 Available for freelance DevOps projects - CI/CD, Docker, AWS, Deployments.**  
 **Feel free to reach out — let's build something reliable together.**
 
 *"Automate everything. Secure everything. Ship with confidence."*
