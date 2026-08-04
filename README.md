@@ -10,7 +10,7 @@
 <!-- Badges Row -->
 <p>
   <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-00D4FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-1DB954?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-1DB954?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  🎓 BS Information Technology — BZU Multan &nbsp;|&nbsp; 📍 Lahore, Pakistan &nbsp;|&nbsp; 💼 Open to opportunities
+  🎓 BS Information Technology — BZU Multan &nbsp;|&nbsp; 📍 Islamabad, Pakistan &nbsp;|&nbsp; 💼 Open to opportunities
 </p>
 
 <p align="center">
